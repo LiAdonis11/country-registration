@@ -9,11 +9,12 @@
         body {
             font-family: 'Helvetica Neue', sans-serif;
             margin: 0;
-            padding: 20px;
+            padding: 0;
             background-color: #f3f4f6;
             display: flex;
-            flex-direction: column;
+            justify-content: center;
             align-items: center;
+            height: 100vh;
         }
 
         h1 {
