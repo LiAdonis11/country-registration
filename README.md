@@ -1,3 +1,14 @@
+| ![Create Country Output](outputImages/createCountryOutput.png) | ![Index Country Output](outputImages/indexCountryOutput.png) |
+|:---:|:---:|
+| **Create Country Output**: This image shows the form used to create a new country entry in the application. Users can input the country name, capital city, and country code. The form is designed to be intuitive, guiding users through the data entry process. | **Index Country Output**: This screenshot displays the list of countries stored in the application. Each entry includes the country ID, country name, capital, and code, enabling users to view and manage their country records efficiently. |
+
+### SQL File
+
+- **File Name**: [countrydb.sql](countries.sql)
+- **Purpose**: Initializes the database with a `countries` table, storing country names, capitals, and unique codes. 
+- **Usage**: Run this SQL script in your MySQL client to set up the database.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
